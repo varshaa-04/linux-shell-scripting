@@ -69,7 +69,7 @@ Hardware            |--------> CPU,RAM,HARD DISK
 
 6.rm -r dir-name --> to remove a directory
 
-**c**
+**h/w utlization commands**
 
 1.free -g --> to view details about the memory usage 
 
@@ -78,3 +78,7 @@ Hardware            |--------> CPU,RAM,HARD DISK
 3.df -h--> check disk size
 
 4.top --> to check both the memory and cpu utilizations
+
+
+
+
